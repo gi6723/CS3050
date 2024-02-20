@@ -1,4 +1,4 @@
-This is the course summary my professor provided us with.
+This is the course summary my professor provided us with at the beggining of the semester.
 
 CS3050 Calendar SP2024 Summary
 
